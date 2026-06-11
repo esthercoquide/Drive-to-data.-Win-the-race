@@ -1,0 +1,14 @@
+# Fichiers système inutiles
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Sécurité : NE JAMAIS envoyer vos clés privées Google Cloud
+*.json
+.env
